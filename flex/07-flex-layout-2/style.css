@@ -36,7 +36,7 @@ html, body {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 30px;
+  gap: px;
   align-content: space-around;
   margin: 45px;
 }
